@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.493" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="Search Iphone" name="Search Iphone On the google" time="0.087">
+<failure/>
+<system-out><![CDATA[
+Given I go to the google home page..........................................undefined
+And I enter the Iphone to search Text box...................................skipped
+When I click on search button on the google.................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
